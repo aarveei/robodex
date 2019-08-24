@@ -23,6 +23,12 @@
   color: #61dafb;
 }
 
+h1 {
+  font-family: Lexend Peta;
+  font-size: 72px;
+  color: grey;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
