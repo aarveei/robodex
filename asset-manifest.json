@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aarveei/robodex.git/static/css/main.396e76d9.chunk.css",
-    "main.js": "/aarveei/robodex.git/static/js/main.03a6849c.chunk.js",
-    "main.js.map": "/aarveei/robodex.git/static/js/main.03a6849c.chunk.js.map",
-    "runtime~main.js": "/aarveei/robodex.git/static/js/runtime~main.ee9ae386.js",
-    "runtime~main.js.map": "/aarveei/robodex.git/static/js/runtime~main.ee9ae386.js.map",
-    "static/js/2.4ea1ec15.chunk.js": "/aarveei/robodex.git/static/js/2.4ea1ec15.chunk.js",
-    "static/js/2.4ea1ec15.chunk.js.map": "/aarveei/robodex.git/static/js/2.4ea1ec15.chunk.js.map",
-    "index.html": "/aarveei/robodex.git/index.html",
-    "precache-manifest.6bb25d786ce7a8aa39b21cf753a50499.js": "/aarveei/robodex.git/precache-manifest.6bb25d786ce7a8aa39b21cf753a50499.js",
-    "service-worker.js": "/aarveei/robodex.git/service-worker.js",
-    "static/css/main.396e76d9.chunk.css.map": "/aarveei/robodex.git/static/css/main.396e76d9.chunk.css.map"
+    "main.css": "/robodex/static/css/main.396e76d9.chunk.css",
+    "main.js": "/robodex/static/js/main.210166c5.chunk.js",
+    "main.js.map": "/robodex/static/js/main.210166c5.chunk.js.map",
+    "runtime~main.js": "/robodex/static/js/runtime~main.05925ea0.js",
+    "runtime~main.js.map": "/robodex/static/js/runtime~main.05925ea0.js.map",
+    "static/js/2.4ea1ec15.chunk.js": "/robodex/static/js/2.4ea1ec15.chunk.js",
+    "static/js/2.4ea1ec15.chunk.js.map": "/robodex/static/js/2.4ea1ec15.chunk.js.map",
+    "index.html": "/robodex/index.html",
+    "precache-manifest.a7ab6b212eae2f5f3113c57a515d832c.js": "/robodex/precache-manifest.a7ab6b212eae2f5f3113c57a515d832c.js",
+    "service-worker.js": "/robodex/service-worker.js",
+    "static/css/main.396e76d9.chunk.css.map": "/robodex/static/css/main.396e76d9.chunk.css.map"
   }
 }
