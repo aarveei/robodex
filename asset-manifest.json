@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/robodex/static/css/main.396e76d9.chunk.css",
-    "main.js": "/robodex/static/js/main.210166c5.chunk.js",
-    "main.js.map": "/robodex/static/js/main.210166c5.chunk.js.map",
+    "main.js": "/robodex/static/js/main.ed33f1bd.chunk.js",
+    "main.js.map": "/robodex/static/js/main.ed33f1bd.chunk.js.map",
     "runtime~main.js": "/robodex/static/js/runtime~main.05925ea0.js",
     "runtime~main.js.map": "/robodex/static/js/runtime~main.05925ea0.js.map",
     "static/js/2.4ea1ec15.chunk.js": "/robodex/static/js/2.4ea1ec15.chunk.js",
     "static/js/2.4ea1ec15.chunk.js.map": "/robodex/static/js/2.4ea1ec15.chunk.js.map",
     "index.html": "/robodex/index.html",
-    "precache-manifest.a7ab6b212eae2f5f3113c57a515d832c.js": "/robodex/precache-manifest.a7ab6b212eae2f5f3113c57a515d832c.js",
+    "precache-manifest.4e933511c4974dcce308292978d54261.js": "/robodex/precache-manifest.4e933511c4974dcce308292978d54261.js",
     "service-worker.js": "/robodex/service-worker.js",
     "static/css/main.396e76d9.chunk.css.map": "/robodex/static/css/main.396e76d9.chunk.css.map"
   }
